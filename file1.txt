@@ -2,5 +2,3 @@ Hello vishakh
 hello world
 
 Added the func in feature1 branch
-
-afjksdg
